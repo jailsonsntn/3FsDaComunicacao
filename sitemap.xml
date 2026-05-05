@@ -2,8 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://3-fs-da-comunicacao.vercel.app/</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-05-05T19:45:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://3-fs-da-comunicacao.vercel.app/pagina-vendas-ebook.html</loc>
+    <lastmod>2026-05-05T19:45:00+00:00</lastmod>
   </url>
 </urlset>
