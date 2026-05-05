@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Bloqueios comuns que evitam crawler em arquivos sensiveis
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+# Se publicar sitemap, descomente e ajuste o dominio
+# Sitemap: https://seu-dominio.com/sitemap.xml

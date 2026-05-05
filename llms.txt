@@ -1,0 +1,24 @@
+# 3Fs da Comunicacao - Landing Page
+
+Resumo: Landing page do ebook "Feedback, Feedforward e Feed-up" com foco em comunicacao assertiva, lideranca e gestao de equipes.
+
+Principais entidades:
+- Produto: Ebook Feedback, Feedforward e Feed-up
+- Tema: comunicacao assertiva, feedback construtivo, feed-up, feedforward
+- Preco atual: R$ 19,90
+- Garantia: 7 dias
+- Checkout: https://pay.hotmart.com/Y83846322B?bid=1778008820332
+
+Perguntas respondidas na pagina:
+- Para quem e o ebook?
+- Em quanto tempo consigo ler?
+- Como recebo o material?
+
+Palavras-chave prioritarias:
+- feedback
+- feedforward
+- feed-up
+- comunicacao assertiva
+- lideranca
+- gestao de equipes
+- desenvolvimento profissional
