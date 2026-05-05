@@ -5,5 +5,4 @@ Allow: /
 Disallow: /cgi-bin/
 Disallow: /tmp/
 
-# Se publicar sitemap, descomente e ajuste o dominio
-# Sitemap: https://seu-dominio.com/sitemap.xml
+Sitemap: https://3-fs-da-comunicacao.vercel.app/sitemap.xml
